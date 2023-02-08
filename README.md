@@ -5,6 +5,7 @@
 - Estudando Reactjs 
 - Estudando Nextjs
 - Estudando Spring Boot 
+- Estudando Typescript 
 
 <div align="center">
 
