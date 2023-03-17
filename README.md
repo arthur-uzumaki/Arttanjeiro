@@ -2,10 +2,10 @@
 
 
 - Front-end
-- Estudando Reactjs 
+-  Reactjs 
 - Estudando Nextjs
 - Estudando Spring Boot 
-- Estudando Typescript 
+-  Typescript 
 
 
 <div align="center">
