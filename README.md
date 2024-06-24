@@ -4,7 +4,7 @@
 - Front-end
 -  Reactjs 
 - Estudando Nextjs
-- Estudando Spring Boot 
+- Estudando Nestjs
 -  Typescript 
 
 
@@ -26,7 +26,7 @@
 
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" alt="Arthur-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Arthur-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 <img align="center" alt="Arthur-NEXT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
 </div>
